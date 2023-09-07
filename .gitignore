@@ -1,0 +1,7 @@
+node_modules
+yarn.lock
+/build
+firebase.config.ts
+/app/modules/portfolio
+yarn-error.log
+.vscode
